@@ -1,0 +1,8 @@
+$root: ".Editor";
+
+#{$root} {
+  &-container {
+    display: flex;
+    margin-top: 64px;
+  }
+}
